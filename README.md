@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by email GeorgeDong32@foxmail.com
+- 📫 You can reach me by email georgedong32@foxmail.com
 
 <!---
 GeorgeDong32/GeorgeDong32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
