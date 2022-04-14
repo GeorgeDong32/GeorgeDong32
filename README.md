@@ -9,4 +9,4 @@ GeorgeDong32/GeorgeDong32 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GoergeDong32's github stats](https://github-readme-stats.vercel.app/api?username=GoergeDong32&count_private=true&show_icons=true&hide=issues&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GeorgeDong32's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeDong32)](https://github.com/anuraghazra/github-readme-stats)
