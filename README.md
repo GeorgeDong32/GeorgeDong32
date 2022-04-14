@@ -4,13 +4,9 @@
 - 📫 You can reach me by email georgedong32@foxmail.com
 
 ```text
-From: 06 April 2022 - To: 13 April 2022
-JavaScript   1 hr 48 mins    ███████▓░░░░░░░░░░░░░░░░░   30.21 %
-Go           1 hr 28 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
-C++          1 hr 25 mins    ██████░░░░░░░░░░░░░░░░░░░   23.79 %
-TypeScript   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-CSS          22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Other        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Now Developing:
+GoodPass -- A Password Manager that safe and convient
+SYSU_Matrix -- A repository that stores answers of matrix exercises
 ```
 
 <!--END_SECTION:waka-->
