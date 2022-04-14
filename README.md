@@ -9,6 +9,4 @@ GoodPass -- A Password Manager that safe and convient
 SYSU_Matrix -- A repository that stores answers of matrix exercises
 ```
 
-<!--END_SECTION:waka-->
-
 [![GeorgeDong32's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeDong32)](https://github.com/anuraghazra/github-readme-stats)
