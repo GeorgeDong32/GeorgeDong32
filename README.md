@@ -1,8 +1,8 @@
-## 👋 Hi! 
-- 🍻 I’m @GeorgeDong32, nice to meet you!
-- 👀 I’m now focus in PassWord Manager developing
-- 🌱 I’m currently learning C/C++
-- 💬 You can reach me by email georgedong32@foxmail.com
+## Hi! 👏
+- I’m @GeorgeDong32, nice to meet you! 🍻
+- I’m now focus in PassWord Manager developing 👀
+- I’m currently learning C/C++ 🌱
+- You can reach me by email georgedong32@foxmail.com 💬
 
 ```text
 Now Developing:
