@@ -3,7 +3,7 @@
 #### 🧑‍🎓 I'm a student, not a full time developer
 #### 👀 I’m now focus in PassWord Manager developing 
 #### 📖 I’m currently learning C/C++/QT 
-#### 💬 You can reach me by email georgedong32@foxmail.com 
+#### 💬 You can reach me by email georgedong32@foxmail.com or GeorgeDong32@outlook.com
 ## 🏗️ Developing
 #### [`SYSU_Matrix_2022`](https://github.com/GeorgeDong32/SYSU_Matrix_2022) -- `A repository that stores answers of matrix exercises`
 #### [`GoodPass`](https://github.com/GeorgeDong32/GoodPass) -- `A Password Manager that safe and convient`
