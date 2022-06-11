@@ -1,5 +1,5 @@
-## 👏 Hi! 
-#### 🍻 I’m @GeorgeDong32, nice to meet you! 
+<img src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/header.png" alt="GeorgeDong32" width="600">
+
 #### 🧑‍🎓 I'm a student, not a full time developer
 #### 👀 I’m now focus in PassWord Manager developing 
 #### 📖 I’m currently learning C/C++/QT 
