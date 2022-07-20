@@ -12,6 +12,7 @@
 ## 🏗️ Developing
 #### [`SYSU_Matrix_2022`](https://github.com/GeorgeDong32/SYSU_Matrix_2022) -- `A repository that stores answers of matrix exercises`
 #### [`GoodPass`](https://github.com/GeorgeDong32/GoodPass) -- `A Password Manager that safe and convient`
+#### [`My-Code-Footprint`](https://github.com/GeorgeDong32/My-Code-Footprint) -- `A repository record my code footprint`
 ## 🚀 My Stats
 
 | <a href="https://github.com/GeorgeDong32/github-readme-stats"><img align="center" src="https://github-readme-stats-one-topaz-92.vercel.app/api?username=GeorgeDong32&show_icons=true&bg_color=45,34558b,FFFFFF&title_color=FFFFFF&icon_color=F5DF4D&hide_border=1" alt="GeorgeDon32's github stats" /></a> | <a href="https://github.com/GeorgeDong32/github-readme-stats"><img align="center" height="192" src="https://github-readme-stats-one-topaz-92.vercel.app/api/top-langs/?username=GeorgeDong32&layout=compact&bg_color=45,FFFFFF,34558b&title_color=555555" /></a> |
