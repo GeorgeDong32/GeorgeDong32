@@ -1,7 +1,7 @@
 <img src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/header.png" alt="GeorgeDong32" width="600">
 
 #### 🧑‍🎓 I'm a student, not a full time developer
-#### 👀 I’m now focus in PassWord Manager developing, Windows development and data research. 
+#### 👀 I’m now focus in PassWord Manager developing, Windows APP development and data research. 
 #### 📖 I’m currently learning:
    <code><img height="30" alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
    <code><img height="30" alt="C++" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
