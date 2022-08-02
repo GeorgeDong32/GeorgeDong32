@@ -1,4 +1,4 @@
-# Hi! I'm GeorgeDong32
+# 👋Hi! I'm GeorgeDong32
 <img height="200" alt="my-commit-calendar" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.plugin.isocalendar.svg" >
 
 #### 🧑‍🎓 I'm a student, not a full time developer
