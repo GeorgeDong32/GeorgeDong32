@@ -22,5 +22,80 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 884 Contributions in the Year 2022
+ > 
+> 📦 76.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
+🌆 Daytime    154 commits    ███████░░░░░░░░░░░░░░░░░░   31.43% 
+🌃 Evening    263 commits    █████████████░░░░░░░░░░░░   53.67% 
+🌙 Night      15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67% 
+Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+Wednesday    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
+Thursday     75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
+Friday       93 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.98% 
+Saturday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
+Sunday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.35%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
+C                        2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Objective-C              1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/GeorgeDong32/GeorgeDong32/main/charts/bar_graph.png) 
+
+
+ Last Updated on 09/08/2022 11:48:22 UTC
 <!--END_SECTION:waka-->
 
