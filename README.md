@@ -49,13 +49,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 29 mins        ████████████████░░░░░░░░░   64.76% 
+Markdown                 48 mins             ████████░░░░░░░░░░░░░░░░░   35.24%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 18 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+My-Code-Footprint        2 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
@@ -70,6 +71,6 @@ C#                       2 repos             ███████░░░░�
 
 
 
- Last Updated on 09/08/2022 15:27:46 UTC
+ Last Updated on 10/08/2022 01:55:14 UTC
 <!--END_SECTION:waka-->
 
