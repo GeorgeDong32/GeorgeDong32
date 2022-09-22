@@ -5,7 +5,7 @@ on:
   # (optional) Run workflow manually
   watch:
     types: [started]
-  push: {branches: ["master", "main"]}
+  # push: {branches: ["master", "main"]}
 jobs:
   Metrics-UpdateLess:
     runs-on: ubuntu-latest
