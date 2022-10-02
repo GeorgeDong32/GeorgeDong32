@@ -1,7 +1,7 @@
 name: Metrics-UpdateLess
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 1 * *"}]
+  schedule: [{cron: "0 0 1,10,20 * *"}]
   # (optional) Run workflow manually
   watch:
     types: [started]
