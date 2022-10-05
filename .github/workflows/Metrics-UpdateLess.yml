@@ -6,6 +6,7 @@ on:
   watch:
     types: [started]
   # push: {branches: ["master", "main"]}
+  workflow_dispatch:
 jobs:
   Metrics-UpdateLess:
     runs-on: ubuntu-latest
