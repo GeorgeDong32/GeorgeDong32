@@ -9,7 +9,7 @@
   </a>
 </p>
 
-| <h5 align="left"> <p>🧑‍🎓 I'm a student, not a full time developer</p> <p>👀 I’m now focus in PassWord Manager developing, Windows APP development and data research</p> <p>📖 I’m currently learning:</p> <p><img height="32" src="https://skillicons.dev/icons?i=cs,c,cpp,matlab,cmake,py,dotnet,unity&theme=light" /></p> <p>💬 You can reach me by email georgedong32@foxmail.com or GeorgeDong32@outlook.com</p></h5> | <img width="450" alt="my-commit-calendar" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.plugin.isocalendar.svg" > |
+| <h5 align="left"> <p>🧑‍🎓 I'm a student, not a full time developer</p> <p>👀 I’m now focus in PassWord Manager developing, Windows APP development and data research</p> <p>📖 I’m currently learning:</p> <p><img height="32" src="https://skillicons.dev/icons?i=cs,c,cpp,matlab,cmake,py,dotnet,unity" /></p> <p>💬 You can reach me by email georgedong32@foxmail.com or GeorgeDong32@outlook.com</p></h5> | <img width="450" alt="my-commit-calendar" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.plugin.isocalendar.svg" > |
 | ------------- | ------------- |
 
 ## 🏗️ Developing
