@@ -21,7 +21,7 @@ jobs:
             base: header, repositories
             plugin_lines: yes
       - name: Compact display
-        uses: lowlighter/metrics@v3.33
+        uses: lowlighter/metrics@96dde98a034ab75fec7884f9161bc12759275d36 #临时方案
         with:
             filename: metrics.achievements.svg
             token: ${{ secrets.METRICS_TOKEN }}
