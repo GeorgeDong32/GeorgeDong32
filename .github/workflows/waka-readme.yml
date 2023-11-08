@@ -1,11 +1,14 @@
 name: Waka Readme
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  # schedule:
+  #  - cron: '0 0 * * *'
   watch:
     types: [started]
   workflow_dispatch:
+  #API trigger for Cloudflare worker
+  repository_dispatch:
+    types: [daily]
 jobs:
   update-readme:
     name: Update Readme with Metrics
