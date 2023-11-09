@@ -1,14 +1,14 @@
 name: Metrics
 on:
   # Schedule daily updates
-  # schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
+  #API trigger for Cloudflare worker
+  repository_dispatch:
+    types: [daily]
   watch:
     types: [started]
   # (optional) Run workflow manually
   workflow_dispatch:
-  #API trigger for Cloudflare worker
-  repository_dispatch:
-    types: [daily]
 jobs:
   Metrics:
     runs-on: ubuntu-latest
