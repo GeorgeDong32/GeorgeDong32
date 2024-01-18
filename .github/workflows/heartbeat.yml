@@ -16,3 +16,5 @@ jobs:
       - name: Sent Heartbeat
         run: |
          curl https://uptime.betterstack.com/api/v1/heartbeat/${{HEARTBEAT_ID}}
+        env:
+          HEARTBEAT_ID: ${{ secrets.HEARTBEAT_ID }}
