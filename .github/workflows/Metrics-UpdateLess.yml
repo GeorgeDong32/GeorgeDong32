@@ -20,13 +20,11 @@ jobs:
             token: ${{ secrets.METRICS_TOKEN }}
             base: header, repositories
             plugin_lines: yes
-      - name: Compact display
+      - name: Featured repositories
         uses: lowlighter/metrics@latest
         with:
-            filename: metrics.achievements.svg
+            filename: metrics.repositories.svg
             token: ${{ secrets.METRICS_TOKEN }}
             base: ""
-            plugin_achievements: yes
-            plugin_achievements_only: >-
-              polyglot, stargazer, maintainer, developer, forker
-            plugin_achievements_display: detailed
+            plugin_repositories: yes
+            plugin_repositories_featured: GoodPass,GoodPass-v3,GoodPass-v2

@@ -5,7 +5,7 @@
   </a>
   &emsp;
   <a href="#">
-    <img width="400" align="top" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.achievements.svg" />
+    <img width="400" align="top" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.repositories.svg" />
   </a>
 </p>
 
