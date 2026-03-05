@@ -9,13 +9,16 @@
   </a>
 </p>
 
-| <h5 align="left"> <p>🧑‍🎓 I'm a student, not a full time developer</p> <p>👀 I’m now focus in PassWord Manager developing, Windows APP development and data research</p> <p>📖 I’m currently learning:</p> <p><img height="28" src="https://skillicons.dev/icons?i=cs,c,cpp,matlab,cmake,py,dotnet,unity" /></p> <p>💬 You can reach me by email georgedong32@foxmail.com or GeorgeDong32@outlook.com</p></h5> | <img width="450" alt="my-commit-calendar" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.plugin.isocalendar.svg" > |
+| <h5 align="left"> <p>🧑‍🎓 I'm a student, not a full time developer</p> <p>👀 I’m now focus in Open Source contribution, AI client development and Windows APP development</p> <p>🌟 Active contributor to <a href="https://github.com/CherryHQ/cherry-studio">Cherry Studio</a> - A cross-platform LLM client</p> <p>📖 I’m currently learning:</p> <p><img height="28" src="https://skillicons.dev/icons?i=cs,c,cpp,matlab,cmake,py,dotnet,unity,ts,react" /></p> <p>💬 You can reach me by email georgedong32@foxmail.com or GeorgeDong32@outlook.com</p></h5> | <img width="450" alt="my-commit-calendar" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.plugin.isocalendar.svg" > |
 | ------------- | ------------- |
 
 ## 🏗️ Developing
 #### [`GoodPass`](https://github.com/GeorgeDong32/GoodPass) -- `A Password Manager that safe and convient`
 #### [`GoodPass-v3`](https://github.com/GeorgeDong32/GoodPass-v3) -- `GoodPass GUI`
 #### [`GoodPass-v2`](https://github.com/GeorgeDong32/GoodPass-v2) -- `GoodPass CLI`
+
+## 🌟 Open Source Contribution
+#### [`Cherry Studio`](https://github.com/CherryHQ/cherry-studio) -- `A cross-platform LLM client`
 
 ## 🚀 My Stats
 
