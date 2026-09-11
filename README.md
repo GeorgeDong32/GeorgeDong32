@@ -1,26 +1,97 @@
-# 👋Hi! I'm GeorgeDong32
+<!--
+agent-readable profile metadata (hidden from rendered page; parse from raw source)
+name: George Dong (GeorgeDong32)
+role: Open-source developer; CoreDev at CherryHQ/cherry-studio
+focus: [AI applications, AI coding agents, developer tooling]
+education: Master's student in Integrated Circuits Engineering (EE), Sun Yat-sen University
+research_interest: LLM applications in EDA / chip design workflows
+open_source:
+
+  - repo: CherryHQ/cherry-studio
+    role: core developer
+    merged_prs: 100+
+    areas: [security hardening, backup & restore, chat export, performance, UX, provider integrations]
+  - repo: GeorgeDong32/pi-permission-modes
+    npm: "@georgedong32/permission-modes"
+    description: Permission kernel for pi — Claude Code-style ask/plan/auto/bypass modes with auto classifier and model profiles
+  - repo: GeorgeDong32/pi-agent-panel
+    description: Fleet panel for pi — supervise background pi agents, take over their sessions into the main REPL
+  - repo: GeorgeDong32/pi-review
+    description: Fan-out code review extension — N parallel reviewers plus a final gate
+  - repo: GeorgeDong32/pi-claude-code-tui
+    description: Claude Code-style terminal UI for pi, with permission-modes-integrated footer
+    contact:
+      email: [georgedong32@qq.com, GeorgeDong32@outlook.com]
+    last_updated: 2026-09-11
+    -->
+
+<h1 align="center">George Dong</h1>
+
 <p align="center">
-  <a href="#">
-    <img width="400" align="top" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.classic.svg" />
-  </a>
-  &emsp;
-  <a href="#">
-    <img width="400" align="top" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.repositories.svg" />
-  </a>
+  <strong>Open-source developer · Core Developer at <a href="https://github.com/CherryHQ/cherry-studio">Cherry Studio</a></strong><br>
+  Building tools for AI coding agents and AI-powered developer workflows.
+</p>
+<p align="center">
+    <a href="https://github.com/CherryHQ/cherry-studio">Cherry Studio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/GeorgeDong32?tab=repositories">Repositories</a>
 </p>
 
-| <h5 align="left"> <p>🧑‍🎓 I'm a student, not a full time developer</p> <p>👀 I’m now focus in Open Source contribution, AI client development and Windows APP development</p> <p>🌟 Active contributor to <a href="https://github.com/CherryHQ/cherry-studio">Cherry Studio</a> - A cross-platform LLM client</p> <p>📖 I’m currently learning:</p> <p><img height="28" src="https://skillicons.dev/icons?i=cs,c,cpp,matlab,cmake,py,dotnet,unity,ts,react" /></p> <p>💬 You can reach me by email georgedong32@foxmail.com or GeorgeDong32@outlook.com</p></h5> | <img width="450" alt="my-commit-calendar" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.plugin.isocalendar.svg" > |
-| ------------- | ------------- |
 
-## 🏗️ Developing
-#### [`GoodPass`](https://github.com/GeorgeDong32/GoodPass) -- `A Password Manager that safe and convient`
-#### [`GoodPass-v3`](https://github.com/GeorgeDong32/GoodPass-v3) -- `GoodPass GUI`
-#### [`GoodPass-v2`](https://github.com/GeorgeDong32/GoodPass-v2) -- `GoodPass CLI`
+## Now
 
-## 🌟 Open Source Contribution
-#### [`Cherry Studio`](https://github.com/CherryHQ/cherry-studio) -- `A cross-platform LLM client`
+- 🍒 Contributing to **Cherry Studio** — 100+ merged PRs across security hardening, backup & restore, and performance.
+- 🤖 Building **Pi-Extensions** — a coherent extension suite for [pi](https://github.com/earendil-works/pi), covering the permission kernel, agent supervision, review, and UI.
+- 🎓 Master's student in Integrated Circuits Engineering (EE) at Sun Yat-sen University.
+- 🔬 Exploring LLM applications in EDA / chip design workflows.
 
-## 🚀 My Stats
+## Open Source Contribution
 
-| <a href="https://github.com/GeorgeDong32/GeorgeDong32"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeDong32&show_icons=true&bg_color=45,34558b,FFFFFF&title_color=FFFFFF&icon_color=F5DF4D&hide_border=1" alt="GeorgeDon32's github stats" /></a> | <a href="https://github.com/GeorgeDong32/GeorgeDong32"><img align="center" height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeDong32&layout=compact&bg_color=45,FFFFFF,34558b&title_color=555555&hide_border=1&langs_count=7&size_weight=0.45&count_weight=0.55&exclude_repo=IntelliCar" /></a> |
-| ------------- | ------------- |
+### 🍒 Cherry Studio — Core Developer
+
+[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) (50k+ ⭐) is one of the most popular open-source AI desktop clients. 100+ merged PRs so far, focused on:
+
+- 🔒 **Security** — IPC sender gates, extension-open guards, WebDAV TLS verification, sandboxed HTML preview, zip-slip containment
+- 💾 **Backup & restore** — full-restore resource staging architecture
+- ⚡ **Performance** — main-process sync-IO elimination, lazy-loaded dialogs, worker-offloaded markdown rendering
+- 🧩 **Features & UX** — settings search, provider/model integrations, chat export pipelines (markdown & Notion), UX polish, issue triage & user support
+
+## 🧩 Pi-Extensions
+
+An extension suite for [pi](https://github.com/earendil-works/pi), an open-source coding agent — built as one coherent system, from the permission kernel to the interface layer:
+
+| Extension                                                                                                                    | Layer             | What it does                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------- |
+| [pi-permission-modes](https://github.com/GeorgeDong32/pi-permission-modes) | Permission kernel | Ask / plan / auto / bypass modes that control how the agent's tool calls get approved      |
+| [pi-agent-panel](https://github.com/GeorgeDong32/pi-agent-panel)                                                              | Agent supervision | Fleet panel: supervise background pi agents, take over their sessions into the main REPL   |
+| [pi-review](https://github.com/GeorgeDong32/pi-review)                                                                        | Code review       | Fan-out review with N parallel reviewers plus a final gate                                 |
+| [pi-claude-code-tui](https://github.com/GeorgeDong32/pi-claude-code-tui)                                                       | Interface         | Claude Code–style terminal UI with a permission-modes-integrated footer                    |
+
+## Tech Stack
+
+<p align="center">
+  <img height="28" src="https://img.shields.io/badge/TypeScript-34558B?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img height="28" src="https://img.shields.io/badge/React-34558B?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img height="28" src="https://img.shields.io/badge/Node.js-34558B?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img height="28" src="https://img.shields.io/badge/Electron-34558B?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
+</p>
+<p align="center">
+  <img height="28" src="https://img.shields.io/badge/C%23-34558B?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+  <img height="28" src="https://img.shields.io/badge/C%2B%2B-34558B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img height="28" src="https://img.shields.io/badge/Python-34558B?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GeorgeDong32&show_icons=true&hide_border=true&bg_color=135,34558b,F0EEE9&title_color=FFFFFF&icon_color=F0EEE9" alt="GitHub stats">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeDong32&layout=compact&langs_count=7&hide_border=true&exclude_repo=IntelliCar&bg_color=135,F0EEE9,34558b&title_color=555555" alt="Top languages">
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.plugin.isocalendar.svg" alt="Contribution calendar">
+</p>
+
+## Contact
+
+- 📫 georgedong32@qq.com · GeorgeDong32@outlook.com
