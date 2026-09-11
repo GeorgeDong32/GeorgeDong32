@@ -84,12 +84,9 @@ An extension suite for [pi](https://github.com/earendil-works/pi), an open-sourc
 ## GitHub Activity
 
 <p align="center">
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeorgeDong32&theme=github" alt="GitHub stats">
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeorgeDong32&theme=github" alt="Top languages">
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.plugin.isocalendar.svg" alt="Contribution calendar">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeorgeDong32&theme=github" alt="GitHub stats">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeorgeDong32&theme=github" alt="Top languages">
+  <img width="32%" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.plugin.isocalendar.svg" alt="Contribution calendar">
 </p>
 
 ## Contact
