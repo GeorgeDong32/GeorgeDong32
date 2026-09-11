@@ -89,7 +89,7 @@ An extension suite for [pi](https://github.com/earendil-works/pi), an open-sourc
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.plugin.isocalendar.svg" alt="Contribution calendar">
+  <img width="60%" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.plugin.isocalendar.svg" alt="Contribution calendar">
 </p>
 
 ## Contact
