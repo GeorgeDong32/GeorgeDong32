@@ -25,7 +25,12 @@ contact:
 last_updated: 2026-09-11
 -->
 
-<h1 align="center">George Dong</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
+    <img width="100%" src="./banner-light.png" alt="George Dong — AI Agents × Open Source × Developer Tools × EDA">
+  </picture>
+</p>
 
 <p align="center">
   <strong>Open-source developer · Core Developer at <a href="https://github.com/CherryHQ/cherry-studio">Cherry Studio</a></strong><br>
