@@ -20,10 +20,10 @@ open_source:
     description: Fan-out code review extension — N parallel reviewers plus a final gate
   - repo: GeorgeDong32/pi-claude-code-tui
     description: Claude Code-style terminal UI for pi, with permission-modes-integrated footer
-    contact:
-      email: [georgedong32@qq.com, GeorgeDong32@outlook.com]
-    last_updated: 2026-09-11
-    -->
+contact:
+  email: [georgedong32@qq.com, GeorgeDong32@outlook.com]
+last_updated: 2026-09-11
+-->
 
 <h1 align="center">George Dong</h1>
 
@@ -84,8 +84,8 @@ An extension suite for [pi](https://github.com/earendil-works/pi), an open-sourc
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GeorgeDong32&show_icons=true&hide_border=true&bg_color=135,34558b,F0EEE9&title_color=FFFFFF&icon_color=F0EEE9" alt="GitHub stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeDong32&layout=compact&langs_count=7&hide_border=true&exclude_repo=IntelliCar&bg_color=135,F0EEE9,34558b&title_color=555555" alt="Top languages">
+  <img width="49%" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.classic.svg" alt="GitHub stats">
+  <img width="49%" src="https://github.com/GeorgeDong32/GeorgeDong32/blob/main/metrics.plugin.languages.svg" alt="Top languages">
 </p>
 
 <p align="center">
